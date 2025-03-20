@@ -1,2 +1,6 @@
-# HeorhiiKantsedal.github.io
-teachers web pages
+# Heorhii Kantsedal web pages 
+Тут ви зможете знайти базові матеріали по дисциплінам а також гайти по виконанню робіт.
+
+## Предмети та курси
+1. [Мультипарадигмові мови програмування](lectures materials/mmp/MMP.md) 
+2. Конфліктно керовані системи
