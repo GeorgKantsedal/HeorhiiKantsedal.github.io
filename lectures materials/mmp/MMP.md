@@ -13,6 +13,9 @@ https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f193
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f19300db3902bcd54a532af7e05b1a/lectures%20materials/mmp/MMP4%20Paradigms%20in%20Python%20part3.pdf)
 6. [Інші парадигми програмування на Python 4. SOLID](
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ea8c7d0d8c65801258197d2b0875facf6cfc9b88/lectures%20materials/mmp/MMP5%20Paradigms%20in%20Python%20part4.pdf)
+7. [Патерни програмування](
+https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ea8c7d0d8c65801258197d2b0875facf6cfc9b88/lectures%20materials/mmp/MMP5%20Paradigms%20in%20Python%20part4.pdf)
    1. [extra singleton](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/6373495938be4d1f4975cfc9ef44c3c4960a6452/lectures%20materials/mmp/extra/singleton.py)
    2. [extra adapter](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/9775820f4faadb9cfa860af150449bba75f4ab05/lectures%20materials/mmp/extra/adapter.py)
-7. 
+   3. [extra bridge](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/de906cc554eadbb34ab3ddfaf8ec4f2ce3609f92/lectures%20materials/mmp/extra/bridge.py)
+   4. [extra composite](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/42f407d97ae0651f4811286c5a7ed7b64de10d04/lectures%20materials/mmp/extra/composite.py)
