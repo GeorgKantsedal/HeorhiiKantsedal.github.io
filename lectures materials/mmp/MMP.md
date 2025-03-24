@@ -20,3 +20,7 @@ https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ff82b9021e69de
    2. [extra adapter](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/9775820f4faadb9cfa860af150449bba75f4ab05/lectures%20materials/mmp/extra/adapter.py)
    3. [extra bridge](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/de906cc554eadbb34ab3ddfaf8ec4f2ce3609f92/lectures%20materials/mmp/extra/bridge.py)
    4. [extra composite](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/42f407d97ae0651f4811286c5a7ed7b64de10d04/lectures%20materials/mmp/extra/composite.py)
+   5. [extra facade](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/a034365a30c0040fba38d944f8e1335ce9f1f8c4/lectures%20materials/mmp/extra/facade.py)
+   6. [extra flyweight](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/a034365a30c0040fba38d944f8e1335ce9f1f8c4/lectures%20materials/mmp/extra/flyweight.py)
+   7. [extra proxy](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/a034365a30c0040fba38d944f8e1335ce9f1f8c4/lectures%20materials/mmp/extra/proxy.py)
+   8. [extra chain](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/a034365a30c0040fba38d944f8e1335ce9f1f8c4/lectures%20materials/mmp/extra/chain.py)
