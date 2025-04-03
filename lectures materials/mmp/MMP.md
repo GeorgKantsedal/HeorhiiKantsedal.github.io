@@ -24,3 +24,8 @@ https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ff82b9021e69de
    6. [extra flyweight](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/a034365a30c0040fba38d944f8e1335ce9f1f8c4/lectures%20materials/mmp/extra/flyweight.py)
    7. [extra proxy](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/a034365a30c0040fba38d944f8e1335ce9f1f8c4/lectures%20materials/mmp/extra/proxy.py)
    8. [extra chain](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/a034365a30c0040fba38d944f8e1335ce9f1f8c4/lectures%20materials/mmp/extra/chain.py)
+8. [Патерни програмування 2](
+https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ff82b9021e69de75172c31d72948af3f3cab4a14/lectures%20materials/mmp/MMP6%20Design%20Pattern%20in%20Python.pdf)
+9. [Dataframe](
+https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/c4482aa89aec39938c1c4ddc1e178ab781be7fff/lectures%20materials/mmp/MMP7%20DataFrame.pdf)
+10. 
