@@ -9,7 +9,8 @@ https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f193
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f19300db3902bcd54a532af7e05b1a/lectures%20materials/mmp/MMP2%20Paradigms%20in%20Python.pdf)
 4. [Основні парадигми програмування на Python 2](
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f19300db3902bcd54a532af7e05b1a/lectures%20materials/mmp/MMP3%20Paradigms%20in%20Python%20part2.pdf)
-5. [Основні парадигми програмування на Python 3](
+   1. [extra class](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ae20c98606dc5192ee779f853030d7f07746f4fe/lectures%20materials/mmp/extra/class.py)
+6. [Основні парадигми програмування на Python 3](
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f19300db3902bcd54a532af7e05b1a/lectures%20materials/mmp/MMP4%20Paradigms%20in%20Python%20part3.pdf)
    1. [extra asyncio](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/d6e6e0b6032b0386b685236baf9866a3bb01ea44/lectures%20materials/mmp/extra/async.py)
 6. [Інші парадигми програмування на Python 4. SOLID](
@@ -39,6 +40,7 @@ https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f193
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f19300db3902bcd54a532af7e05b1a/lectures%20materials/mmp/MMP2%20Paradigms%20in%20Python.pdf)
 4. [Основні парадигми програмування на Python 2](
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f19300db3902bcd54a532af7e05b1a/lectures%20materials/mmp/MMP3%20Paradigms%20in%20Python%20part2.pdf)
+   1. [extra class](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ae20c98606dc5192ee779f853030d7f07746f4fe/lectures%20materials/mmp/extra/class.py)
 5. [Основні парадигми програмування на Python 3](
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f19300db3902bcd54a532af7e05b1a/lectures%20materials/mmp/MMP4%20Paradigms%20in%20Python%20part3.pdf)
    1. [extra asyncio](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/d6e6e0b6032b0386b685236baf9866a3bb01ea44/lectures%20materials/mmp/extra/async.py)
