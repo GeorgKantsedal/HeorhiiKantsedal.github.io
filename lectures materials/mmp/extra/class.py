@@ -47,7 +47,7 @@ class Geometre:
 
     # Публічний метод — обчислює площу, використовуючи приватний метод
     def get_area(self):
-        return Geometre.__calculate_area(self.__x, self.__y, self.__z)
+        return Geometre.__calculate_area(self.__x, self.__y, self.__z) # could be self.__calculate_area
 
     # Сетер для захищеного атрибута _color. Для модифікації протектид данних публічний метод
     def set_color(self, color):
@@ -59,6 +59,10 @@ class Geometre:
     # Гетер для атрибута _color. Для доступу до захищених полів
     def get_color(self):
         return self._color
+
+    @property
+    def color(self):
+        return self._color + ' '
 
     # Сетер для _name (з валідацією)
     def set_name(self, name):
