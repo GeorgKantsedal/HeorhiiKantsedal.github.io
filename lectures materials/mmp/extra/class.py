@@ -27,6 +27,9 @@ class Geometre:
         else:
             print("Значення не проходять перевірку.")
 
+    def __del__(self):
+        print('obj is deleted')
+
     # Метод класу — працює з атрибутами класу через cls. Може будет викликаний без ініціалізації обєкту класу.
     @classmethod
     def chek(cls, arg):
