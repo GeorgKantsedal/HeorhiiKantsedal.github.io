@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-74DZG0CQKR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-74DZG0CQKR');
+</script>
+
 Тут ви зможете знайти базові матеріали по дисциплінам а також гайти по виконанню робіт.
 
 ## Предмети та курси
