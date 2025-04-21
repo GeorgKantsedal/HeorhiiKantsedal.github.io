@@ -1,3 +1,13 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-74DZG0CQKR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-74DZG0CQKR');
+</script>
+
 # Перевірнка бакаларських робіт на відповідність дсту
 
 Поточним актуальним стандартом оформлення робіт є [ДСТУ 3008:2015](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/bc2947c6e80a6291f4e1256120b3516717d4da1f/dstu/dstu-3008-2015.pdf), видання 2015 року
