@@ -7,6 +7,18 @@
 
   gtag('config', 'G-74DZG0CQKR');
 </script>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WFV4C9R4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WFV4C9R4');</script>
+<!-- End Google Tag Manager -->
 
 # Мультипарадигмові мови програмування
 
@@ -70,4 +82,5 @@ https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ff82b9021e69de
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ff82b9021e69de75172c31d72948af3f3cab4a14/lectures%20materials/mmp/MMP6%20Design%20Pattern%20in%20Python.pdf)
 9. [Dataframe](
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/c4482aa89aec39938c1c4ddc1e178ab781be7fff/lectures%20materials/mmp/MMP7%20DataFrame.pdf)
-10. 
+10. [Покращення швидкодії роботи з табличними даними]()
+11. [Елементи тестування, організація автоматичних тестів]()
