@@ -84,3 +84,5 @@ https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ff82b9021e69de
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/c4482aa89aec39938c1c4ddc1e178ab781be7fff/lectures%20materials/mmp/MMP7%20DataFrame.pdf)
 10. [Покращення швидкодії роботи з табличними даними]()
 11. [Елементи тестування, організація автоматичних тестів]()
+12. [Контроль версій та збереження коду]()
+13. [Додатково. Вибір змінних для прогнозування]()
