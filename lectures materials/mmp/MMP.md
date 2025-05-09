@@ -82,7 +82,10 @@ https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ff82b9021e69de
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ff82b9021e69de75172c31d72948af3f3cab4a14/lectures%20materials/mmp/MMP6%20Design%20Pattern%20in%20Python.pdf)
 9. [Dataframe](
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/c4482aa89aec39938c1c4ddc1e178ab781be7fff/lectures%20materials/mmp/MMP7%20DataFrame.pdf)
-10. [Покращення швидкодії роботи з табличними даними]()
-11. [Елементи тестування, організація автоматичних тестів]()
-12. [Контроль версій та збереження коду]()
-13. [Додатково. Вибір змінних для прогнозування]()
+10. [Покращення швидкодії роботи з табличними даними](
+https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/d146cad927f35525c6b5f8df1b92beddf2f20939/lectures%20materials/mmp/MMP9%20DataFrame%20or%20no.pdf
+)
+11. [Елементи тестування, організація автоматичних тестів]
+12. [Контроль версій та збереження коду]
+13. [Додатково. Вибір змінних для прогнозування](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/d146cad927f35525c6b5f8df1b92beddf2f20939/lectures%20materials/mmp/MMP8%20feature%20selection.pdf
+)
