@@ -1,4 +1,14 @@
-Дані матеріали були запозичені Maryna Didkovska з курсу що читався з 2011-2020 рік. 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-74DZG0CQKR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-74DZG0CQKR');
+</script>
+
+Дані матеріали були запозичені Maryna Didkovska з курсу що читався з 2011-2020 роках. 
 Прошу використовувати як додатковий матеріал що розкриває підхід до мануального тестування продукту в великих компаніях.
 
 1. [Цикл розробки ПО](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/0e3e7c624b0e57f0ec7373232dc9515cf2e48789/lectures%20materials/old%20testing%20prez/1%20Software%20Lifecycle%20Models%20and%20Testing%20Axioms%20-%20new.pptx)
