@@ -86,6 +86,7 @@ https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/c4482aa89aec39
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/d146cad927f35525c6b5f8df1b92beddf2f20939/lectures%20materials/mmp/MMP9%20DataFrame%20or%20no.pdf
 )
 11. [Елементи тестування, організація автоматичних тестів]
+    1. 
 12. [Контроль версій та збереження коду]
 13. [Додатково. Вибір змінних для прогнозування](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/d146cad927f35525c6b5f8df1b92beddf2f20939/lectures%20materials/mmp/MMP8%20feature%20selection.pdf
 )
