@@ -26,7 +26,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ## Предмети та курси
 1. [Мультипарадигмові мови програмування](lectures materials/mmp/MMP.md) 
 2. Конфліктно керовані системи
-[Елементи мануального тестування](lectures materials/old_testing_prez/manual tesing.md)
 
 ## Освітні проекти
 1. [Перевірка на відповідність ДСТУ](dstu/dstu.md) 
