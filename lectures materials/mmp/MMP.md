@@ -22,7 +22,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 # Мультипарадигмові мови програмування
 
-## Список лекцій для очної форми навчання
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    <h2>Список лекцій для очної форми навчання</h2>
+
 1. [Вступ](
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f19300db3902bcd54a532af7e05b1a/lectures%20materials/mmp/MMP0%20%D0%A0%D0%A1%D0%9E%20%D0%9E%D1%87%D0%BD%D0%B0%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F.pdf)
 2. [Python основа](
@@ -52,8 +55,10 @@ https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ff82b9021e69de
 9. [Dataframe](
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/c4482aa89aec39938c1c4ddc1e178ab781be7fff/lectures%20materials/mmp/MMP7%20DataFrame.pdf)
 
+  </div>
+  <div style="flex: 1;">
+    <h2>Список лекцій для другої вищої форми навчання</h2>
 
-## Список лекцій для другої вищої форми навчання
 1. [Вступ](
 https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/10e9221148f19300db3902bcd54a532af7e05b1a/lectures%20materials/mmp/MMP0%20%D0%A0%D0%A1%D0%9E%20%D0%97%D0%B0%D0%BE%D1%87%D0%BD%D0%B0%20%D1%84%D0%BE%D1%80%D0%BC%D0%B0%20%D0%BD%D0%B0%D0%B2%D1%87%D0%B0%D0%BD%D0%BD%D1%8F.pdf)
 2. [Python основа](
@@ -90,3 +95,5 @@ https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/d146cad927f355
 12. [Контроль версій та збереження коду]
 13. [Додатково. Вибір змінних для прогнозування](https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/d146cad927f35525c6b5f8df1b92beddf2f20939/lectures%20materials/mmp/MMP8%20feature%20selection.pdf
 )
+  </div>
+</div>
