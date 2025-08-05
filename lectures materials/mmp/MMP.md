@@ -159,8 +159,15 @@ Dataframe</a> </li>
 <div style="flex: 1;">
 <h2> Лабораторні роботи </h2>
 <ul> 
-<li> <a href="labs/task0.md">task0 </a> </li>
-<li> <a href="labs/task1.md">task1 </a> </li>
+<li> Лабораторна робота 0.
+<a href="labs/task0.md">Пояснення до роботи</a>, 
+<a href="https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ebf9fa1079eeabdbdf66c6a8c399981fa5ea1542/lectures%20materials/mmp/labs/code_start_with/task0.py">
+Py file</a>
+</li>
+<li> Лабораторна робота 1. 
+<a href="labs/task1.md">Пояснення до роботи</a>,
+<a href="https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ebf9fa1079eeabdbdf66c6a8c399981fa5ea1542/lectures%20materials/mmp/labs/code_start_with/task1.py">Py file</a> </li>
+</li>
 <li> <a href="labs/task2.md">task2 </a> </li>
 <li> <a href="labs/task3.md">task3 </a> </li>
 <li> <a href="labs/task4.md">task4 </a> </li>
