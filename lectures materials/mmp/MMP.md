@@ -156,4 +156,17 @@ Dataframe</a> </li>
 Dataframe</a> </li>
 </ul>
 </div>
+<div style="flex: 1;">
+<h2> Лабораторні роботи </h2>
+<ul> 
+<li> <a href="lectures materials/mmp/labs/task0.md">task0 </a> </li>
+<li> <a href="lectures materials/mmp/labs/task1.md">task1 </a> </li>
+<li> <a href="lectures materials/mmp/labs/task2.md">task2 </a> </li>
+<li> <a href="lectures materials/mmp/labs/task3.md">task3 </a> </li>
+<li> <a href="lectures materials/mmp/labs/task4.md">task4 </a> </li>
+<li> <a href="lectures materials/mmp/labs/task5.md">task5 </a> </li>
+<li> <a href="lectures materials/mmp/labs/task6.md">task6 </a> </li>
+<li> <a href="lectures materials/mmp/labs/task7.md">task7 </a> </li>
+</ul>
+</div>
 </div>
