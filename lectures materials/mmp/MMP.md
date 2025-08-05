@@ -166,10 +166,16 @@ Py file</a>
 </li>
 <li> Лабораторна робота 1. 
 <a href="labs/task1.md">Пояснення до роботи</a>,
-<a href="https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ebf9fa1079eeabdbdf66c6a8c399981fa5ea1542/lectures%20materials/mmp/labs/code_start_with/task1.py">Py file</a> </li>
+<a href="https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ebf9fa1079eeabdbdf66c6a8c399981fa5ea1542/lectures%20materials/mmp/labs/code_start_with/task1.py">Py file</a> 
 </li>
-<li> <a href="labs/task2.md">task2 </a> </li>
-<li> <a href="labs/task3.md">task3 </a> </li>
+<li> Лабораторна робота 2. 
+<a href="labs/task2.md">Пояснення до роботи</a>,
+<a href="https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ebf9fa1079eeabdbdf66c6a8c399981fa5ea1542/lectures%20materials/mmp/labs/code_start_with/task2.py">Py file</a> 
+</li>
+<li> Лабораторна робота 3. 
+<a href="labs/task3.md">Пояснення до роботи</a>, 
+<a href="https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ebf9fa1079eeabdbdf66c6a8c399981fa5ea1542/lectures%20materials/mmp/labs/code_start_with/task3.py">Py file</a> 
+</li>
 <li> <a href="labs/task4.md">task4 </a> </li>
 <li> <a href="labs/task5.md">task5 </a> </li>
 <li> <a href="labs/task6.md">task6 </a> </li>
