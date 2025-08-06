@@ -180,6 +180,9 @@ Py file</a>
 <li> <a href="labs/task5.md">task5 </a> </li>
 <li> <a href="labs/task6.md">task6 </a> </li>
 <li> <a href="labs/task7.md">task7 </a> </li>
+<li> <a href="labs/setup.md">Налаштування середовища для виконання робіт</a>,
+<li> <a href="labs/libs_for_env">Список бібліотек для встановлення</a>
+</li>
 </ul>
 </div>
 </div>
