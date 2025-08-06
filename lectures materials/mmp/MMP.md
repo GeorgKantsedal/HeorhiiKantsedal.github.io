@@ -176,10 +176,21 @@ Py file</a>
 <a href="labs/task3.md">Пояснення до роботи</a>, 
 <a href="https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ebf9fa1079eeabdbdf66c6a8c399981fa5ea1542/lectures%20materials/mmp/labs/code_start_with/task3.py">Py file</a> 
 </li>
-<li> <a href="labs/task4.md">task4 </a> </li>
-<li> <a href="labs/task5.md">task5 </a> </li>
-<li> <a href="labs/task6.md">task6 </a> </li>
-<li> <a href="labs/task7.md">task7 </a> </li>
+<li> Лабораторна робота 4.  
+<a href="labs/task4.md">Пояснення до роботи</a>
+<a href="https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ebf9fa1079eeabdbdf66c6a8c399981fa5ea1542/lectures%20materials/mmp/labs/code_start_with/task4.py">Py file</a>
+</li>
+<li> Лабораторна робота 5. 
+<a href="labs/task5.md">Пояснення до роботи</a>,
+<a href="https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ebf9fa1079eeabdbdf66c6a8c399981fa5ea1542/lectures%20materials/mmp/labs/code_start_with/task5.py">Py file</a> 
+</li>
+<li> Лабораторна робота 6.  
+<a href="labs/task6.md">Пояснення до роботи</a> 
+<a href="https://github.com/GeorgKantsedal/HeorhiiKantsedal.github.io/blob/ebf9fa1079eeabdbdf66c6a8c399981fa5ea1542/lectures%20materials/mmp/labs/code_start_with/task6.py">Py file</a> 
+</li>
+<li> Лабораторна робота 7.  
+<a href="labs/task7.md">Пояснення до роботи</a>
+</li>
 <li> <a href="labs/setup.md">Налаштування середовища для виконання робіт</a>,
 <li> <a href="labs/libs_for_env">Список бібліотек для встановлення</a>
 </li>
