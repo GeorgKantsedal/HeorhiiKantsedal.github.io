@@ -21,7 +21,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','	GTM-WK4MBVRQ');</script>
 <!-- End Google Tag Manager -->
 
-Тут ви зможете знайти базові матеріали по дисциплінам а також гайти по виконанню робіт.
+Тут ви зможете знайти базові матеріали по дисциплінах, а також гайди з виконання робіт.
 
 ## Предмети та курси
 1. [Мультипарадигмові мови програмування](lectures materials/mmp/MMP.md) 
