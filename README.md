@@ -26,7 +26,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 ## Предмети та курси
 1. [Мультипарадигмові мови програмування](lectures materials/mmp/MMP.md) 
 2. Конфліктно керовані системи
-3. [Кросплатформене програмування](lectures%20materials/cross%20platform%20programming/CPP.md)
+3. [Кросплатформене програмування](lectures materials/cross platform programming/CPP.md)
 ## Методичне забезпечення
 1. [Перевірка на відповідність ДСТУ](dstu/dstu.md)
 2. [Опис роботи з системою перевірки робіт](bot%20deocks/bot.md)
